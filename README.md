@@ -1,2 +1,2 @@
 # integrations
-tryingout different integrations
+trying out different integrations
